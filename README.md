@@ -1,0 +1,2 @@
+# .github
+Thessaloníki DevOps Meetup
